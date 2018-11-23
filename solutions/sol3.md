@@ -1,0 +1,1 @@
+The programme is an infinite loop without any output(for loop is always true as no test statement, and if is always true as value of i is not changed, which takes it back at for loop because of "continue")
